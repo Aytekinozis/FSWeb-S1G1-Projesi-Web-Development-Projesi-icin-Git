@@ -17,7 +17,7 @@ github repoların bulunduğu izni olanların dosyalar üzerinde değişim yapabi
 3. Neden bir branch oluşturuyoruz?
 işleyen bir kod dizini bozulmasın diye yeni yazdığımız kodları, özellikleri denediğimiz dallar oluşturuyoruz.
 4. Pull Request'in amacı nedir?
-cloudda yapılan değişiklikleri local e alabilmek için kullanılır.
+yaptigimiz degisiklikleri yetkili kisiye pull etmesi icin istek atmamizdir.
 5. Bir Branchten diğerine geçmek için kullandığın KOMUT nedir? Mesela `isim-soyisim` branch'inde çalıştığını hayal et ve main branch'ine geçmek istiyorsun, ne yaparsın?
 gıt checkout yazarak branch değiştiriyoruz.
 6. `git fetch`, `git merge` ve `git pull` arasındaki farklıarı açıklayınız. Bu konutlar ne yapar açıklayınız.
